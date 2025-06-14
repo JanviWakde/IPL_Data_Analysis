@@ -24,7 +24,7 @@ Handled missing values and ensured data consistency (e.g., corrected column name
 Merged datasets where required (e.g., combining match and delivery data for season-wise analysis).
 
 🔹 Data Visualization
-Visualized player and team performance using bar plots, line graphs, stacked bars, and heatmaps.
+Visualized player and team performance using bar plots, line graphs, and heatmaps.
 Analyzed metrics such as top run-scorers, wicket-takers, dismissal types, and winning patterns.
 
 
